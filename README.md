@@ -1,5 +1,5 @@
 
-# MomentumX 🧠🚀
+# MomentumX 
 
 **Advanced Algorithmic Trading Suite for Sui Blockchain**
 
