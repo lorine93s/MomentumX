@@ -50,6 +50,7 @@ export class VolumeFarmingBot extends BaseBot {
       this.config.slippage
     );
   }
+  
 
   private calculateReturnAmount(): number {
     // Implement logic to account for fees and price impact
