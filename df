@@ -1,0 +1,25 @@
+[33mcommit 923170e011a91ce8a6a0ac14ec11fe0595543d89[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: Kien Lam <lorine93skilesvca@hotmail.com>
+Date:   Wed Aug 6 19:50:44 2025 +0900
+
+    Add bundler, volumn, copytrader function
+    
+    Co-authored-by: Uri Nami sugarbrownie0112@gmail.com
+
+[33mcommit 7e186513f7d405056130cc5225b64512439d8052[m
+Author: Kien Lam <lorine93skilesvca@hotmail.com>
+Date:   Mon Aug 4 20:49:26 2025 +0900
+
+    modify README.md
+
+[33mcommit e1d879a68b3f6b67afe58e55a6a96a481338c866[m
+Author: Lorine93s <lorine93skilesvca@hotmail.com>
+Date:   Mon Aug 4 20:01:18 2025 +0900
+
+    initial
+
+[33mcommit cd37ef9c6dd1b0faf9204e9b9b267f7e3b449050[m
+Author: Lorine93s <lorine93skilesvca@hotmail.com>
+Date:   Mon Aug 4 19:38:04 2025 +0900
+
+    Initial commit
